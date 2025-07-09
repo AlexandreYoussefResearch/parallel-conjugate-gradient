@@ -31,7 +31,3 @@ The CG method is implemented from scratch in C++, based on a standard iterative 
 - Comparison of scalability across MPI ranks and GPU occupancy levels
 - Accuracy and convergence tracking relative to a serial baseline
 
-## Context
-
-This project was submitted as the final deliverable for the "Parallel and High Performance Computing" course taught by **Dr. Pablo Antolín** at EPFL. The implementation and results were presented in a live oral defense session.
-
